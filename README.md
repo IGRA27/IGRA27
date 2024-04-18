@@ -28,6 +28,8 @@ Contact me:
 ### Languages and Tools
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.docker.com" target="_blank"> <img src="https://github.com/bwks/vendor-icons-svg/blob/master/docker-logo.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.automationanywhere.com/la" target="_blank"> <img src="https://seekvectorlogo.com/wp-content/uploads/2022/01/automation-anywhere-vector-logo-2022.png" alt="aa" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <img src="https://user-images.githubusercontent.com/81053917/179447402-622b5734-26eb-4a64-8b42-56990cccd852.png" width="43">&nbsp;
