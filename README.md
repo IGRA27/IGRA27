@@ -15,7 +15,7 @@ Contact me:
 </div>
 <br>
 
-- 🔭 I’m currently working on [Data Mining and Machine Learning](https://github.com/IGRA27/Data-Mining-and-Machine-Learning-) and in [Power Apps & M365 at WellPerf Wireline Perforating](https://wellperf.com/)
+- 🔭 I’m currently working on [Data Mining and Machine Learning](https://github.com/IGRA27/Data-Mining-and-Machine-Learning-), in [Microsoft Platform and Microsoft 365 at WellPerf Wireline Perforating](https://wellperf.com/) & Team RPA on - [Automation Anywhere, UIPATH at Bayteq](https://www.bayteq.com/)
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & Data Mining.
 - 👯 I’m looking to collaborate on Investigations. [Email](isaacreyesigra27@gmail.com) 
 - 🤔 I’m looking for help with Robotics.
