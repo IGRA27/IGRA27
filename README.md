@@ -15,8 +15,8 @@ Contact me:
 </div>
 <br>
 
-- 🔭 I’m currently working on [Data Mining and Machine Learning](https://github.com/IGRA27/Data-Mining-and-Machine-Learning-), in [Microsoft Platform and Microsoft 365 at WellPerf Wireline Perforating](https://wellperf.com/) & Team RPA on - [Automation Anywhere, UIPATH at Bayteq](https://www.bayteq.com/)
-- 🌱 I’m currently learning [Django](https://www.djangoproject.com/) & Data Mining.
+- 🔭 I’m currently working on [Data Mining and Machine Learning](https://github.com/IGRA27/Data-Mining-and-Machine-Learning-), in [SKYDIVING365 CHILE]([https://wellperf.com/](https://www.skydiving365.com.ar/)) as an AI Engineer
+- 🌱 I’m currently learning [LangGraph]([https://www.djangoproject.com/](https://www.langchain.com/langgraph)) & Data Mining.
 - 👯 I’m looking to collaborate on Investigations. [Email](isaacreyesigra27@gmail.com) 
 - 🤔 I’m looking for help with Robotics.
 - 💬 Ask me about Python, pandas, my [CV](https://www.linkedin.com/in/isaac-reyes-358760141/)
