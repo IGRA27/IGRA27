@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padimaster&label=Profile%20views&color=0e75b6&style=flat" alt="padimaster" /> </p>
 
 <h1 align="center">Engineer in Computer Science at <a href="https://www.epn.edu.ec">Escuela Politécnica Nacional</a> 🇪🇨</h1>
+<h1 align="center">Artificial Intelligence Engineer at <a href="https://www.legalsoft.com/">Legal Soft</a> 🇪🇨</h1>
 
 ## My social networks
 <h2 align="center">
