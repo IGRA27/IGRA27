@@ -16,10 +16,10 @@ Contact me:
 </div>
 <br>
 
-- 🔭 I’m currently working on [Data Mining and Machine Learning](https://github.com/IGRA27/Data-Mining-and-Machine-Learning-), in [LEGALSOFT](https://www.legalsoft.com/) as an AI Engineer
-- 🌱 I’m currently learning [LangGraph]([https://www.djangoproject.com/](https://www.langchain.com/langgraph)) & Data Mining.
+- 🔭 I’m currently working on [AI Research, Senior AI ENGINEER, AI ARCHITECT, Data Mining and Machine Learning](https://github.com/IGRA27), in [LEGALSOFT](https://www.legalsoft.com/) as an AI Engineer
+- 🌱 I’m currently applying [LangGraph]([https://www.djangoproject.com/](https://www.langchain.com/langgraph)) & Data Mining.
 - 👯 I’m looking to collaborate on Investigations. [Email](isaacreyesigra27@gmail.com) 
-- 🤔 I’m looking for help with Robotics.
+- 🤔 I’m learning Robotics.
 - 💬 Ask me about Python, pandas, my [CV](https://www.linkedin.com/in/isaac-reyes-358760141/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/isaac-reyes-358760141/) and [instagram](https://instagram.com/isaacgabrielreyes)
 - 😄 Pronouns: [IGRA](https://github.com/IGRA27)
