@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padimaster&label=Profile%20views&color=0e75b6&style=flat" alt="padimaster" /> </p>
 
-<h1 align="center">Artificial Intelligence Engineer at <a href="https://www.legalsoft.com/">Legal Soft</a> - <a href="[https://www.legalsoft.com/](https://practice360.ai/)">Practice 360</a> - BerryV irtual - MedVirtual.ai 🇺🇸</h1>
+<h1 align="center">Artificial Intelligence Engineer at <a href="https://www.legalsoft.com/">Legal Soft</a> - <a href="[https://www.legalsoft.com/](https://practice360.ai/)">Practice 360</a> - Berry Virtual - MedVirtual.ai - 🇺🇸</h1>
 <h2 align="center">Engineer in Computer Science graduated at <a href="https://www.epn.edu.ec">Escuela Politécnica Nacional</a> 🇪🇨</21>
 
 ## My social networks
